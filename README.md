@@ -19,14 +19,12 @@ An inspired Web and Mobile App Developer
 
 ### About Me
 
-- 🔭 I’m currently working on **Baze**
 - 🌱 I’m currently learning **Computer Science & Cybersecurity**
 - 👨‍💻 All of my projects are available at [AlloysAmasakha.com](https://www.alloysamasakha.com/)
 - 📝 I regularly write articles on [EutopiaCommunity](https://www.alloysamasakha.com/eutopiacommunity)
 - 💬 Ask me about **Flutter, Laravel**
 - 📫 How to reach me: **amasakhalloys@gmail.com**
 - 📄 Know about my experiences [My Work](https://www.alloysamasakha.com/mywork)
-- ⚡ Fun fact: **I play Video games**
 
 ### Languages and Tools
 <p align="left">
