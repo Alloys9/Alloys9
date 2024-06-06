@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alloys Amasakha
 <p align="right">
-An inspired Web and App Developer
+An inspired Web and Mobile App Developer
 </p>
 
 
