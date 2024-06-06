@@ -1,11 +1,9 @@
 # Hi 👋, I'm Alloys Amasakha
 <p align="right">
-An inspired Web and App Developer <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50">
+An inspired Web and App Developer
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alloys9&theme=darkhub" alt="alloys9" />
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/alloysworld" target="_blank">
@@ -55,9 +53,6 @@ An inspired Web and App Developer <img src="https://media.giphy.com/media/xT0xeJ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloys9&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloys9&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ### Dev Jokes & Fun
 <p align="center">
