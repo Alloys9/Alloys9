@@ -40,7 +40,7 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   </a>
   <br/>
 
-    <!-- Mobile Development -->
+  <!-- Mobile Development -->
   <a href="https://dart.dev" target="_blank" title="Dart">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin: 10px;"/>
   </a>
