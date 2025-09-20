@@ -6,9 +6,6 @@ An inspired Web and Mobile App Developer
 
 
 <p align="center">
-  <a href="https://twitter.com/alloysworld" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/alloysworld" alt="Twitter Follow" />
-  </a><br/>
   <a href="https://linkedin.com/in/alloys-amasakha-681886255/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn" />
   </a>
@@ -19,30 +16,72 @@ An inspired Web and Mobile App Developer
 
 ### About Me
 
-- 🌱 I’m currently learning **Computer Science & Cybersecurity**
-- 👨‍💻 All of my projects are available at [AlloysAmasakha.com](https://www.alloysamasakha.com/)
-- 📝 I regularly write articles on [EutopiaCommunity](https://www.alloysamasakha.com/eutopiacommunity)
+- 🌱 I’m **Computer Science & Cybersecurity**
+- 👨‍💻 All of my projects are available at [eutopiantech.com.com](https://www.eutopiantech.com/project)
+- 📝 I regularly write articles on [EutopianCommunity](https://www.eutopiantech.com/community)
 - 💬 Ask me about **Flutter, Laravel**
-- 📫 How to reach me: **amasakhalloys@gmail.com**
-- 📄 Know about my experiences [My Work](https://www.alloysamasakha.com/mywork)
+- 📫 How to reach me: **alloys@eutopiantech.com**
 
 ### Languages and Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/> <br/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/> <br/>
-  
-   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/><br/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px; margin-bottom: 10px;"/>
-  
+  <!-- Backend Technologies -->
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" title="FastAPI">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://laravel.com" target="_blank" title="Laravel">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <br/>
+
+  <!-- Frontend Technologies -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <br/>
+
+  <!-- Mobile Development -->
+  <a href="https://dart.dev" target="_blank" title="Dart">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" title="Flutter">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <br/>
+
+  <!-- Databases and Cloud -->
+  <a href="https://www.mysql.com" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://firebase.google.com" target="_blank" title="Firebase">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <br/>
+
+  <!-- Tools -->
+  <a href="https://www.figma.com" target="_blank" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;"/>
+  </a>
 </p>
 
 ### GitHub Stats
