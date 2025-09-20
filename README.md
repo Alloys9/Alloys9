@@ -16,11 +16,12 @@ An inspired Web and Mobile App Developer
 
 ### About Me
 
-- 🌱 I’m **Computer Science & Cybersecurity**
-- 👨‍💻 All of my projects are available at [eutopiantech.com.com](https://www.eutopiantech.com/project)
-- 📝 I regularly write articles on [EutopianCommunity](https://www.eutopiantech.com/community)
-- 💬 Ask me about **Flutter, Laravel**
-- 📫 How to reach me: **alloys@eutopiantech.com**
+Expertise: Specializing in Computer Science, Cybersecurity, and Artificial Intelligence, with a focus on building robust web and mobile applications powered by cutting-edge technologies.
+Portfolio: Explore my projects, showcasing expertise in full-stack development, machine learning, and AI, at eutopiantech.com/projects.
+Community: I share insights on software development, AI, and cybersecurity through articles on Eutopian Community.
+Ask Me About: Flutter, Laravel, FastAPI, Python, Machine Learning, AI Models, and Cybersecurity Best Practices.
+Contact: Reach out to me at alloys@eutopiantech.com for collaborations or inquiries.
+
 
 ### Languages and Tools
 <p align="left">
