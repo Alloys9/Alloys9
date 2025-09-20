@@ -40,16 +40,7 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   </a>
   <br/>
 
-  <!-- Frontend Technologies -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <br/>
-
-  <!-- Mobile Development -->
+    <!-- Mobile Development -->
   <a href="https://dart.dev" target="_blank" title="Dart">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin: 10px;"/>
   </a>
@@ -59,6 +50,18 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" style="margin: 10px;"/>
   </a>
+  <br/>
+
+  <!-- Frontend Technologies -->
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
+  </a>
+ 
+  <br/>
+
   <br/>
 
   <!-- Databases and Cloud -->
