@@ -9,18 +9,18 @@ An inspired Web and Mobile App Developer
   <a href="https://linkedin.com/in/alloys-amasakha-681886255/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/20399637/alloys-amasakha" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
 </p>
 
 ### About Me
+Focus on building robust web and mobile applications powered by cutting-edge technologies.
 
-Expertise: Specializing in Computer Science, Cybersecurity, and Artificial Intelligence, with a focus on building robust web and mobile applications powered by cutting-edge technologies.
-Portfolio: Explore my projects, showcasing expertise in full-stack development, machine learning, and AI, at eutopiantech.com/projects.
-Community: I share insights on software development, AI, and cybersecurity through articles on Eutopian Community.
-Ask Me About: Flutter, Laravel, FastAPI, Python, Machine Learning, AI Models, and Cybersecurity Best Practices.
-Contact: Reach out to me at alloys@eutopiantech.com for collaborations or inquiries.
+- 👨‍💻 Portfolio: Explore my projects, showcasing expertise in full-stack development, machine learning, and AI, at eutopiantech.com/projects.
+
+- 📝 Blog: I share insights on software development, AI, and cybersecurity through articles on Eutopian Community.
+
+- 💬 Ask Me About: Flutter, Laravel, FastAPI, Python, React, Machine Learning, AI Model Deployment, and Cybersecurity Best Practices.
+
+- 📫 Contact: Reach out to me at alloys@eutopiantech.com for collaborations or inquiries.
 
 
 ### Languages and Tools
