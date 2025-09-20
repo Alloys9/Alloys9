@@ -1,9 +1,6 @@
 # Hi 👋, I'm Alloys Amasakha
 <p align="right">
-An inspired Web and Mobile App Developer
 </p>
-
-
 
 <p align="center">
   <a href="https://linkedin.com/in/alloys-amasakha-681886255/" target="_blank">
@@ -34,9 +31,6 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   </a>
   <a href="https://www.java.com" target="_blank" title="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://laravel.com" target="_blank" title="Laravel">
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" height="40" style="margin: 10px;"/>
@@ -73,6 +67,12 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   </a>
   <a href="https://firebase.google.com" target="_blank" title="Firebase">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px;"/>
   </a>
   <br/>
 
