@@ -11,7 +11,7 @@
 ### About Me
 Focus on building robust web and mobile applications powered by cutting-edge technologies.
 
-- 👨‍💻 Portfolio: Explore my projects, showcasing expertise in full-stack development, machine learning, and AI, at eutopiantech.com/projects.
+- 👨‍💻 Interests: Explore my projects, showcasing expertise in full-stack development, machine learning, and AI, at  <a href="https://www.eutopiantech.com/project" target="_blank" title="eutopiantech">eutopiantech.com/projects.</a> 
 
 - 📝 Blog: I share insights on software development, AI, and cybersecurity through articles on Eutopian Community.
 
