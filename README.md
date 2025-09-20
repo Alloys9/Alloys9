@@ -59,8 +59,7 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
   </a>
- 
-  <br/>
+
 
   <br/>
 
@@ -86,12 +85,6 @@ Focus on building robust web and mobile applications powered by cutting-edge tec
   <a href="https://git-scm.com" target="_blank" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;"/>
   </a>
-</p>
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alloys9&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloys9&theme=radical" alt="GitHub Streak" />
 </p>
 
 
